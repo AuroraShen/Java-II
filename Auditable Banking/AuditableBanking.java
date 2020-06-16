@@ -1,9 +1,6 @@
-//////////////////// ALL ASSIGNMENTS INCLUDE THIS SECTION /////////////////////
+/////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
 //
 // Title:           AuditableBanking App
-// Files:           None
-// Course:          Comp Sci 300, LEC-001, Fall 2018
-//
 // Author:          Ruoxi Shen
 // Email:           rshen27@wisc.edu
 // Lecturer's Name: Dahl,Gary 
