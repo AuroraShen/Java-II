@@ -1,8 +1,7 @@
 /////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
 //
 // Title:           AuditableBanking App
-// Author:          Ruoxi Shen
-// Email:           rshen27@wisc.edu
+// Author:          rshen27@wisc.edu
 // Lecturer's Name: Dahl,Gary 
 //
 /////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
