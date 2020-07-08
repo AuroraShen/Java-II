@@ -4,7 +4,7 @@
 // Author:     rshen27@wisc.edu
 // Lecturer's Name: Gary Dahl
 //
-///////////////////////////// 100 COLUMNS WIDE ///////////////////////////////
+///////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
 
 /**
  * The CustomProcess class represents the type for the processes in our application.
