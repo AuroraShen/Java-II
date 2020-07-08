@@ -1,6 +1,5 @@
 /////////////////// ALL ASSIGNMENTS INCLUDE THIS SECTION /////////////////////
 //
-// Title:           Jungle Park 1000
 // Files:           JunglePark.java
 // Author:          rshen27@wisc.edu
 // Lecturer's Name: Gary Dahl
