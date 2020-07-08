@@ -5,6 +5,7 @@
 //Lecturer's Name: Gary Dahl
 //
 /////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
+
 import java.util.Random;
 
 /**
